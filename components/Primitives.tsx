@@ -8,7 +8,7 @@ export * as CollapsiblePrimitive from '@interop-ui/react-collapsible';
 export * as ContextMenuPrimitive from '@interop-ui/react-context-menu';
 export * as CheckboxPrimitive from '@interop-ui/react-checkbox';
 export * as DialogPrimitive from '@interop-ui/react-dialog';
-export * as DropdownMenuPrimitive from '@interop-ui/react-dropdown-menu';
+export * as DropdownMenu from '@interop-ui/react-dropdown-menu';
 export * as LabelPrimitive from '@interop-ui/react-label';
 export { useLabelContext } from '@interop-ui/react-label';
 export * as PopoverPrimitive from '@interop-ui/react-popover';
